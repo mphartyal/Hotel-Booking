@@ -30,3 +30,5 @@ export const Header4 = () => {
    
   );
 };
+
+export default Header4

@@ -13,7 +13,7 @@ const Home = () => {
       <Head>
         <title>HB : Paradise For Hotel Booking</title>
 
-      <link rel="icon" href="/cash.png"></link>
+      
       </Head>
       <Header1/>
       <Header2/>

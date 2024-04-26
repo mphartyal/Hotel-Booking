@@ -18,3 +18,5 @@ export const Block = ({ title, para }) => {
     </div>
   );
 };
+
+export default Block

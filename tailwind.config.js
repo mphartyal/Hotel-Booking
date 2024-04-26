@@ -7,7 +7,13 @@ module.exports = {
   ],
   theme: {
     extend: {
-      
+      backgroundImage:{
+        "login-background":'url("/background.jpeg")'
+      },
+
+      height:{
+        'large-box':'325px'
+      }
     },
   },
   plugins: [],

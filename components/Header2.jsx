@@ -38,3 +38,5 @@ export const Header2 = () => {
     </div>
   )
 }
+
+export default Header2
